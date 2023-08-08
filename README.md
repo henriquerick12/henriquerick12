@@ -12,12 +12,16 @@
 
 <br>
 <br>
+<div> 
+  <a href="https://www.instagram.com/henrique_silva2406/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/otacilio-henrique-s-1b1841137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<br>
 
 - 🔭 Atualmente estou aprendendo a programação na Kenzie Academy Brasil
 - 👯 Procuro colaborar em programação fullstack...
 - 🤔 Procuro ajuda para trabalhar com Tecnologia FrontEnd e BeckEnd ...
 - 💬 Pergunte-me sobre Tudo...
-- 📫 Como chegar: henriquewood3@gmail.com,
-https://www.linkedin.com/in/otacilio-henrique-s-1b1841137/
+- 📫 Como chegar: henriquewood3@gmail.com
 - 😄 Pronomes: Rick
 - ⚡ Curiosidade: Em aprender de tudo

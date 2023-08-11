@@ -6,6 +6,11 @@
 
 🚀 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
+🌱 Atuação no desenvolvimento Front End, baseada nas linguagens e tecnologias JavaScript, Typescript, React e CSS.
+Familiaridade com boas práticas de desenvolvimento clean code.
+Vivência em utilização de metodologia ágil (SCRUM).
+Experiência na construção de projetos em grupo de conclusão de módulo no curso da Kenzie, atuando como tech lead e scrum master.
+
 ---
 
 ## 🚀 Linguagens e ferramentas

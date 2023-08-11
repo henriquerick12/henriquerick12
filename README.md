@@ -2,13 +2,15 @@
 
 > Atualmente estudando programação.
 
-🔭 Trabalhando no meu portifolio.
+🔭 Trabalhando no meu portifolio. 
+
+🚀 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Linguagens e ferramentas
 
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -29,7 +31,7 @@ import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
   nome = "Otacilio Henrique";
-  area = "Desenvolvedor FullStack";
+  area_desejada = "Desenvolvedor FullStack";
   estudo = "Kenzie Academy Brasil";
 }
 

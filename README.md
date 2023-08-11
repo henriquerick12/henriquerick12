@@ -1,6 +1,6 @@
 # Otacilio Henrique 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <div> 
   <a href="https://www.instagram.com/henrique_silva2406/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -19,10 +19,18 @@
 
 <br>
 
-- 🔭 Atualmente estou aprendendo programação na Kenzie Academy Brasil
-- 👯 Procuro colaborar em programação fullstack...
-- 🤔 Procuro ajuda para trabalhar com Tecnologia FrontEnd e BeckEnd ...
-- 💬 Pergunte-me sobre Tudo...
-- 📫 Como chegar: henriquewood3@gmail.com
-- 😄 Pronomes: Rick
-- ⚡ Curiosidade: Em aprender de tudo
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+```js
+import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Otacilio Henrique";
+  area = "Desenvolvedor FullStack";
+  estudo = "Kenzie Academy Brasil";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["HTML , CSS , Javascript , Node , React , TypeScript"];
+}
+```

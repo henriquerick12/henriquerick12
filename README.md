@@ -2,7 +2,7 @@
 
 > Atualmente estudando programação.
 
-🔭 meu portifolio - https://portfolio-five-eosin-12.vercel.app/ 
+🔭 meu portifolio - https://portfolio-liart-ten-17.vercel.app/
 
 🚀 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 

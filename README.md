@@ -2,7 +2,7 @@
 
 > Atualmente estudando programação.
 
-🔭 meu portifolio - https://portfolio-liart-ten-17.vercel.app/
+🔭 meu portifolio - https://portfolio-rick12.netlify.app/
 
 🚀 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 

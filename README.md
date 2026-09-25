@@ -70,7 +70,7 @@ Tenho interesse especial na interseção entre Engenharia de Software, Backend e
 
 🌐 Portfólio
 
-🔗 portfolio-rick12.netlify.app
+🔗 [portfolio-rick12.netlify.app](https://githubfolio-k89afy5r.manus.space)
 
 📚 Experiência de formação
 

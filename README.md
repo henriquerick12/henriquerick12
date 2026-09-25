@@ -1,43 +1,77 @@
-## 💜 Olá, meu nome é <strong>Otacilio Henrique!</strong>
+👋 Olá, eu sou Otacilio Henrique
 
-> Atualmente estudando programação.
+Desenvolvedor de software focado em evoluir através da construção de projetos reais, estudando desde os fundamentos de engenharia de software até arquitetura, backend e aplicações com Inteligência Artificial.
 
-🔭 meu portifolio - https://portfolio-rick12.netlify.app/
+Atualmente estou aprofundando meus conhecimentos em Python, APIs, bancos de dados, arquitetura de software e desenvolvimento com IA, sem deixar de lado minha experiência com desenvolvimento Front-end.
 
-🚀 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+🚀 Atualmente estudando
 
-🌱 Atuação no desenvolvimento Front End, baseada nas linguagens e tecnologias JavaScript, Typescript, React e CSS.
-Familiaridade com boas práticas de desenvolvimento clean code.
-Vivência em utilização de metodologia ágil (SCRUM).
-Experiência na construção de projetos em grupo de conclusão de módulo no curso da Kenzie, atuando como tech lead e scrum master.
+Engenharia de Software
 
----
+Python
 
-## 🚀 Linguagens e ferramentas
+FastAPI
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+APIs REST
 
----
+PostgreSQL e SQL
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+Arquitetura de Software
 
-```js
-import Desenvolvedor from "SeuNick";
+React e TypeScript
 
-class SobreMim extends Desenvolvedor {
-  nome = "Otacilio Henrique";
-  area_desejada = "Desenvolvedor FullStack";
-  estudo = "Kenzie Academy Brasil";
-}
+Git e GitHub
 
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML , CSS , Javascript , Node , React , TypeScript"];
-}
-```
+Inteligência Artificial aplicada ao desenvolvimento
+
+LLMs e Prompt Engineering
+
+RAG e bancos vetoriais
+
+Agentes de IA
+
+Spec-Driven Development (SDD)
+
+🛠️ Tecnologias
+
+Front-end
+
+JavaScript • TypeScript • React • HTML • CSS
+
+Backend
+
+Python • FastAPI • APIs REST • SQL • PostgreSQL
+
+Engenharia
+
+Git • GitHub • Clean Code • Arquitetura em Camadas • SCRUM
+
+IA — em aprendizado
+
+LLMs • Prompt Engineering • RAG • Agentes de IA • LangChain
+
+💻 Projetos
+
+ClientFlow
+
+Projeto utilizado como laboratório prático para estudar o ciclo completo de desenvolvimento de software.
+
+O projeto passa por:
+
+Requisitos → Domínio → Arquitetura → Banco de Dados → Backend → Frontend → Testes → Deploy
+
+Além da implementação, o projeto é utilizado para estudar Spec-Driven Development e desenvolvimento de software assistido por agentes de IA.
+
+🎯 Objetivo
+
+Meu objetivo é evoluir como desenvolvedor capaz de entender não apenas como escrever código, mas também como projetar, estruturar, testar e evoluir sistemas de software.
+
+Tenho interesse especial na interseção entre Engenharia de Software, Backend e Inteligência Artificial.
+
+🌐 Portfólio
+
+🔗 portfolio-rick12.netlify.app
+
+📚 Experiência de formação
+
+Durante minha formação na Kenzie Academy, participei de projetos em grupo e tive experiências atuando como Tech Lead e Scrum Master, trabalhando com organização de equipe, metodologia ágil e desenvolvimento colaborativo.
